@@ -38,3 +38,15 @@ THEME = '../joshpsawyer-dot-com-theme'
 CATEGORIES_TO_DISPLAY_ON_HOMEPAGE=('Portfolio')
 DISPLAY_PAGES_ON_MENU=TRUE
 MENUITEMS=(('Prints', 'https://www.inprnt.com/gallery/catmeister/'),)
+
+SITEURL = 'https://joshpsawyer.com'
+FEED_ALL_ATOM = 'feeds/all.atom.xml'
+CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+RELATIVE_URLS = True
+FEED_ALL_RSS = 'feeds/all.rss'
+
+# this can be changed to true at some point
+DELETE_OUTPUT_DIRECTORY = False
+OUTPUT_RETENTION = [".hg", ".git", ".bzr"]
+
+OUTPUT_PATH = '../joshpsawyer.github.io/'
