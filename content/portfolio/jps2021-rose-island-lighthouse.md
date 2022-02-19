@@ -3,7 +3,7 @@ Date: 2021-11-01 19:30
 Modified: 2021-11-01 19:30
 Category: Portfolio
 Tags: aseprite, pixelart
-Slug: rose island lighthouse 2021
+Slug: rose-island-lighthouse-2021
 Authors: josh
 Summary: Short version for index and feeds
 

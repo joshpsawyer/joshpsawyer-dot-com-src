@@ -3,7 +3,7 @@ Date: 2021-10-01 19:30
 Modified: 2021-10-01 19:30
 Category: Portfolio
 Tags: aseprite, pixelart
-Slug: Septembit 2021
+Slug: septembit-2021
 Authors: josh
 Summary: Short version for index and feeds
 

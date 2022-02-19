@@ -3,7 +3,7 @@ Date: 2022-03-01 19:30
 Modified: 2022-03-01 19:30
 Category: Portfolio
 Tags: aseprite, pixelart
-Slug: justin donaldson landscape coursework 2022
+Slug: justin-donaldson-landscape-coursework-2022
 Authors: josh
 Summary: Short version for index and feeds
 
