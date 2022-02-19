@@ -1,9 +1,9 @@
-Title: Septembit 2020
-Date: 2020-10-01 19:30
-Modified: 2020-10-01 19:30
-Category: Portfolio
+Title: Justin Donaldson Landscape Coursework
+Date: 2022-03-01 19:30
+Modified: 2022-03-01 19:30
+Category: Artz
 Tags: aseprite, pixelart
-Slug: septembit-2020
+Slug: justin-donaldson-landscape-coursework-2022
 Authors: josh
 Summary: Short version for index and feeds
 

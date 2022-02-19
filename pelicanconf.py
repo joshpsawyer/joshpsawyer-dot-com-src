@@ -35,9 +35,9 @@ DEFAULT_PAGINATION = 10
 
 THEME = '../joshpsawyer-dot-com-theme'
 
-CATEGORIES_TO_DISPLAY_ON_HOMEPAGE=('Portfolio')
+CATEGORIES_TO_DISPLAY_ON_HOMEPAGE=('Artz')
 DISPLAY_PAGES_ON_MENU=TRUE
-MENUITEMS=(('Prints', 'https://www.inprnt.com/gallery/catmeister/'),)
+MENUITEMS=(('Printz', 'https://www.inprnt.com/gallery/catmeister/'),)
 
 SITEURL = 'https://joshpsawyer.com'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
