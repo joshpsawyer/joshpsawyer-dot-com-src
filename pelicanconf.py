@@ -1,3 +1,6 @@
+from pickle import TRUE
+
+
 AUTHOR = 'Josh P. Sawyer'
 SITENAME = "Josh P. Sawyer's Internet Scrapyard"
 SITEURL = ''
@@ -29,3 +32,9 @@ DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
 #RELATIVE_URLS = True
+
+THEME = '../joshpsawyer-dot-com-theme'
+
+CATEGORIES_TO_DISPLAY_ON_HOMEPAGE=('Portfolio')
+DISPLAY_PAGES_ON_MENU=TRUE
+MENUITEMS=(('Prints', 'https://www.inprnt.com/gallery/catmeister/'),)
