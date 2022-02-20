@@ -53,3 +53,7 @@ OUTPUT_PATH = '../joshpsawyer.github.io/'
 
 from datetime import date
 CURRENTYEAR = date.today().year
+
+GOOGLE_ANALYTICS = 'G-FQ55D84H20'
+
+STATIC_PATHS = ['images']

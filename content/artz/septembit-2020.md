@@ -1,11 +1,14 @@
 Title: Septembit 2020
 Date: 2020-10-01 19:30
 Modified: 2020-10-01 19:30
+status: draft
 Category: Artz
 Tags: aseprite, pixelart
 Slug: septembit-2020
 Authors: josh
 Summary: Short version for index and feeds
+Thumbnail: images/rose_island_v2_anim_square.png
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Volutpat diam ut venenatis tellus in metus. Tempor commodo ullamcorper a lacus vestibulum sed arcu non. Est ullamcorper eget nulla facilisi etiam dignissim diam quis. At imperdiet dui accumsan sit amet nulla facilisi. Et sollicitudin ac orci phasellus egestas tellus. Enim eu turpis egestas pretium aenean pharetra. Amet massa vitae tortor condimentum lacinia quis vel eros donec. Dignissim suspendisse in est ante in nibh mauris cursus. Fringilla phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec. Mattis nunc sed blandit libero volutpat sed cras. Tempus quam pellentesque nec nam aliquam sem et tortor. Sed cras ornare arcu dui vivamus arcu felis bibendum. Magna fringilla urna porttitor rhoncus dolor purus non enim praesent. Molestie a iaculis at erat pellentesque. Auctor eu augue ut lectus. Arcu risus quis varius quam quisque id diam. Volutpat consequat mauris nunc congue nisi. Vitae turpis massa sed elementum tempus egestas.
 
