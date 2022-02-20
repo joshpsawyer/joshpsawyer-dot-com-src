@@ -46,7 +46,7 @@ RELATIVE_URLS = True
 FEED_ALL_RSS = 'feeds/all.rss'
 
 # this can be changed to true at some point
-DELETE_OUTPUT_DIRECTORY = False
+DELETE_OUTPUT_DIRECTORY = True
 OUTPUT_RETENTION = [".hg", ".git", ".bzr"]
 
 OUTPUT_PATH = '../joshpsawyer.github.io/'
@@ -57,3 +57,14 @@ CURRENTYEAR = date.today().year
 GOOGLE_ANALYTICS = 'G-FQ55D84H20'
 
 STATIC_PATHS = ['images']
+
+ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
+ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
+
+MONTH_ARCHIVE_SAVE_AS = '{date:%Y}/{date:%m}/index.html'
+YEAR_ARCHIVE_SAVE_AS = '{date:%Y}/index.html'
+
+CATEGORY_SAVE_AS = 'categories/{slug}.html'
+CATEGORY_URL = 'categories/{slug}.html'
+TAG_SAVE_AS = 'tags/{slug}.html'
+TAG_URL = 'tags/{slug}.html'
