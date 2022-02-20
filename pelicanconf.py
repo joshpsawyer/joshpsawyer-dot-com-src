@@ -1,8 +1,8 @@
 from pickle import TRUE
 
 
-AUTHOR = 'Josh P. Sawyer'
-SITENAME = "Josh P. Sawyer's Internet Scrapyard"
+AUTHOR = 'josh'
+SITENAME = "josh's internet scrapyard"
 SITEURL = ''
 
 PATH = 'content'
@@ -41,13 +41,13 @@ MENUITEMS=(('Printz', 'https://www.inprnt.com/gallery/catmeister/'),)
 
 SITEURL = 'https://joshpsawyer.com'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
-CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
+# CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 RELATIVE_URLS = True
-FEED_ALL_RSS = 'feeds/all.rss'
+# FEED_ALL_RSS = 'feeds/all.rss'
 
 # this can be changed to true at some point
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = [".hg", ".git", ".bzr"]
+OUTPUT_RETENTION = [".hg", ".git", ".bzr", "CNAME"]
 
 OUTPUT_PATH = '../joshpsawyer.github.io/'
 
