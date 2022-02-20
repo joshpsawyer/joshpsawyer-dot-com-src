@@ -47,7 +47,7 @@ RELATIVE_URLS = True
 
 # this can be changed to true at some point
 DELETE_OUTPUT_DIRECTORY = True
-OUTPUT_RETENTION = [".hg", ".git", ".bzr", "CNAME"]
+OUTPUT_RETENTION = [".hg", ".git", ".bzr", "CNAME", ".gitignore"]
 
 OUTPUT_PATH = '../joshpsawyer.github.io/'
 
