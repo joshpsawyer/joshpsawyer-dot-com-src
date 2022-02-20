@@ -50,3 +50,6 @@ DELETE_OUTPUT_DIRECTORY = False
 OUTPUT_RETENTION = [".hg", ".git", ".bzr"]
 
 OUTPUT_PATH = '../joshpsawyer.github.io/'
+
+from datetime import date
+CURRENTYEAR = date.today().year
