@@ -1,6 +1,6 @@
 Title: tutorial template
 Date: 2022-02-20 10:20
-status: hidden
+status: draft
 Category: Wordz
 Tags: tutorial
 Slug: a-cool-tutorial
