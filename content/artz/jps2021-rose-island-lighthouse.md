@@ -5,8 +5,9 @@ Category: Artz
 Tags: aseprite, pixelart, ドット絵
 Slug: rose-island-lighthouse-2021
 Authors: josh
-Summary: Rose Island Lighouse Pixel Art
-Thumbnail: images/jps2021011_lighthouse_of_ri_rose_island/rose_island_v2_anim_square_thumb.png
+Summary: Pixel art animation and images of Rose Island Lightouse in Narragansett, RI.
+Description: Pixel art animation and images of Rose Island Lightouse in Narragansett, RI.
+Thumbnail: images/jps2021011_lighthouse_of_ri_rose_island/rose_island_v2_anim_square_thumb.png?ugh
 Featured: images/jps2021011_lighthouse_of_ri_rose_island/rose_island_v2_anim.png
 
 Rose Island Lighthouse in Narragansett Bay. Created with Aseprite. Scroll down to see Halloween!
