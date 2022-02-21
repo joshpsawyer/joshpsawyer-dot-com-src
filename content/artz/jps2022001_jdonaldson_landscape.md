@@ -28,5 +28,5 @@ More on the way!
 
 Are you interested in taking Justin Donaldson's Landscape or Gouache Course? Sign up here!
 
-- [Landscape Course](https://justindonaldson.mykajabi.com/a/2147498842/dAPtCJAy)
-- [Gouache Course](https://justindonaldson.mykajabi.com/a/47045/dAPtCJAy)
+- <a href="https://justindonaldson.mykajabi.com/a/2147498842/dAPtCJAy" target="_blank" rel="nofollow">Justin Donaldson's Landscape Course</a>
+- <a href="https://justindonaldson.mykajabi.com/a/47045/dAPtCJAy" target="_blank" rel="nofollow">Justin Donaldson's Gouache Course</a>
