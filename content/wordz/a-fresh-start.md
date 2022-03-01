@@ -6,5 +6,6 @@ Tags: rambling
 Slug: a fresh start
 Authors: josh
 Summary: new website new blog new me
+showkofi: true
 
 website's stink - here's a new one. plz enjoy.
