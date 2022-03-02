@@ -1,10 +1,9 @@
 Title: Miscellaneous Older Digital Work
 Date: 2021-01-01 10:16
-Modified: 2022-02-21 10:16
 status: published
 Category: Artz
 Tags: digital
-Slug: olrder-digital-work
+Slug: older-digital-work
 Authors: josh
 Description: Various older pieces.
 Summary:  Various older pieces.

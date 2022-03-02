@@ -39,7 +39,7 @@ CATEGORIES_TO_DISPLAY_ON_HOMEPAGE=('Artz')
 DISPLAY_PAGES_ON_MENU=TRUE
 MENUITEMS=(('Printz', 'https://www.inprnt.com/gallery/catmeister/'),)
 
-SITEURL = 'https://joshpsawyer.com'
+SITEURL = 'https://www.joshpsawyer.com'
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
 # CATEGORY_FEED_ATOM = 'feeds/{slug}.atom.xml'
 RELATIVE_URLS = True

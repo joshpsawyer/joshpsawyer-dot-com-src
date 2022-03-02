@@ -1,5 +1,5 @@
 Title: Project Sword Devlog: First Thoughts
-Date: 2022-02-28 10:20
+Date: 2022-03-02 10:20
 status: published
 Category: Wordz
 Tags: devlog, project-sword, project-sword-devlog

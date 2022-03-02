@@ -6,8 +6,8 @@ Category: Artz
 Tags: aseprite, pixelart
 Slug: septembit-2021
 Authors: josh
-Summary: Entries for Saultoons' Septemberit 2021
-Description: Entries for Saultoons' Septemberit 2021
+Summary: Entries for Saultoons' Septembit 2021
+Description: Entries for Saultoons' Septembit 2021
 Thumbnail: images/jps2021001_septembit/septembit-party-row.gif
 Featured: images/jps2021001_septembit/septembit-final.gif
 
