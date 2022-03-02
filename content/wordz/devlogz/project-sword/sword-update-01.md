@@ -6,7 +6,7 @@ Tags: devlog, project-sword, project-sword-devlog
 Slug: sword-update-01
 Authors: josh
 Summary: A public declaration of "I'm making a game, deh"
-showkofi: false
+showkofi: true
 
 My first _serious_ foray into game development is underway. I'm developing a small
 topdown action game that will feel like an old action RPG - e.g. Secret of Evermore -

@@ -1,6 +1,6 @@
 Title: tutorial template
 Date: 2022-02-20 10:20
-status: draft
+status: hidden
 Category: Wordz
 Tags: tutorial
 Slug: a-cool-tutorial
@@ -35,9 +35,6 @@ unity ideas:
             - How to build the conditions
             - link to github code - branch in a scriptable object sries
 
-
-
-
     - Unity's "new" Input System / The input manager / subscribing to events - my entire Input Manager thing
     - Animating a character - walk run, 4 directions
     - The tilemap
@@ -48,3 +45,26 @@ unity ideas:
     - Asset naming
     - Dialogue
     - Scriptable Objects - how do you take such a complex thing
+
+---
+a series on scriptableobjects including:
+    - what it is, how to use it, why to use it
+    - how to create a default state for an SO and set it back to its default state
+    - how to save and load it and create a world variable manager
+    - how to build a condition system with scriptable objects
+    - scriptableobject event system (edited)
+a series on creating a pixel perfect game including
+    - tilemap layering & sorting & pivots
+    - tilemap colliders
+    - pixel perfect camera and the Universal Render Pipeline
+    - using Cinemachine with PPC and URP
+    - pixel perfect post-processing effects - LUTs, lighting, shadows
+    - setting up the game resolution (edited)
+art for pixel perfect games
+    - deciding on a resolution
+    - creating tilemaps
+    - animating with aseprite and using the aseprite auto importer
+all about dialogue:
+    - building a Ink based conversational dialogue with scriptable objects
+    - adding a typing effect and sound effects to the dialogue system
+    - building an over npc speech bubble style dialogue system (Eastward-like)

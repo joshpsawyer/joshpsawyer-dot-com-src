@@ -6,6 +6,8 @@ Tags: rambling
 Slug: a fresh start
 Authors: josh
 Summary: new website new blog new me
-showkofi: true
+showkofi: false
 
 website's stink - here's a new one. plz enjoy.
+
+things that will go here - tutorials, assets, devlogs, inane thoughts.
