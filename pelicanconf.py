@@ -68,3 +68,5 @@ CATEGORY_SAVE_AS = 'categories/{slug}.html'
 CATEGORY_URL = 'categories/{slug}.html'
 TAG_SAVE_AS = 'tags/{slug}.html'
 TAG_URL = 'tags/{slug}.html'
+
+IGNORE_FILES = ['*.unpublished']
