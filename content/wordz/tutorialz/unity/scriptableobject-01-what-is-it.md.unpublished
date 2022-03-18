@@ -5,10 +5,18 @@ Category: Wordz
 Tags: tutorial, unity, unity-tutorial, scriptableobject
 Slug: the-scriptable-object-what-why-and-how
 Authors: josh
-Summary: Heard about all the ScriptableObject hype but still confused? Not sure how it can help you? This is your post!
+Summary: Unity's ScriptableObject - what the hell is it, anyway?
 showkofi: true
 
+You've heard about that using a [ScriptableObject](https://docs.unity3d.com/Manual/class-ScriptableObject.html)
+is a powerful technique for game architecture. You know that they are important, but... you know how to program,
+how much time can they really save? Is this just an unneccessary distraction?
+
 - Links to the youtube videos - Unity 2016 and Unity 2017 talks
+
+https://www.youtube.com/watch?v=6vmRwLYWNRo - Unite 2016
+https://www.youtube.com/watch?v=raQ3iHhE_Kk - Unite 2017
+
 - Links to the domestika course
 
 

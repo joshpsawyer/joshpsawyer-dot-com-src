@@ -1,8 +1,29 @@
-Title: How To Decouple Systems with Unity Events
+Title: How To Choose a 2D Pixel Game Resolution:
 Date: 2022-02-20 10:20
 status: hidden
 Category: Wordz
-Tags: tutorial
-Slug: how-to-decouple-systems-with-unity-events11
+Tags: tutorial, unity
+Slug: how-to-choose-a-2d-pixel-game-resolution
 Authors: josh
 Summary: here's a tutorial
+showkofi: true
+
+# History
+
+# What's everybody else doing?
+
+# Targeting Specific Devices
+
+# Scaling
+
+# Unity's Pixel Perfect Camera
+
+# What Should _You_ Do?
+
+If you've gotten this far and you still don't know what resolution to choose.
+
+If you've got character sprites that are about 24px x 24px, this is how they look.
+
+480 x 270 - Hyper Light Drifter
+
+320 x 180 pixel art

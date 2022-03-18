@@ -4,7 +4,6 @@ Authors: josh
 Summary: all about josh & the scrapyard
 showtitle: false
 
-
 <center><img class="joshportrait" src="{static}/images/about/josh_portrait.gif" /></center>
 
 josh sawyer is catmeister is \_catmeister\_ is a he / him, a dad & husband, a
@@ -18,3 +17,8 @@ the scrapyard - this website - is:
 - using <span class="kenneypixel">Kenney Pixel</span>, a font available for free as part of <a href="https://www.kenney.nl/assets/kenney-fonts" target="_blank" rel="nofollow">Kenney Fonts</a>
 - hosted on github pages - you can see the <a href="https://github.com/joshpsawyer/joshpsawyer-dot-com-src" target="_blank" rel="nofollow">pelican source</a>, the <a href="https://github.com/joshpsawyer/joshpsawyer-dot-com-theme" target="_blank" rel="nofollow">pelican theme</a> or the <a href="https://github.com/joshpsawyer/joshpsawyer.github.io" target="_blank" rel="nofollow">generated files</a>
 
+<center>
+<img class="bannerbutton" src="{static}/images/banners/getmoz.gif" />
+<a href="https://sadgrl.online/" target="_blank"><img class="bannerbutton" src="{static}/images/banners/nft.gif" /></a>
+<a href="https://yesterweb.org/no-to-web3/" target="_blank"><img class="bannerbutton" src="{static}/images/banners/noweb32.gif" /></a>
+</center>
