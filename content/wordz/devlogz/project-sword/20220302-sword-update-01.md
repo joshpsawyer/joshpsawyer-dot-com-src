@@ -2,7 +2,7 @@ Title: Project Sword Devlog: First Thoughts
 Date: 2022-03-02 10:20
 status: published
 Category: Wordz
-Tags: devlog, project-sword, project-sword-devlog
+Tags: devlog, project-sword
 Slug: sword-update-01
 Authors: josh
 Summary: A public declaration of "I'm making a game, deh"

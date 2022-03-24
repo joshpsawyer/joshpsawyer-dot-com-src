@@ -8,7 +8,7 @@ Slug: justin-donaldson-landscape-coursework-2022
 Authors: josh
 Description: Work produced as part of Justin Donaldson's spring 2022 Landscape Course.
 Summary:  Work produced as part of Justin Donaldson's spring 2022 Landscape Course.
-Thumbnail: images/jps2022001_jdonaldson_landscape/jps2022001_jdonaldson_landscape_week02_thumb.png
+Thumbnail: images/jps2022001_jdonaldson_landscape/jps2022001_jdonaldson_landscape_week02_full.png
 Featured: images/jps2022001_jdonaldson_landscape/jps2022001_jdonaldson_landscape_week02_full.png
 
 This course was not really designed with pixel art in mind, so it's an experiment to see how well it translates. So far, so good!

@@ -7,7 +7,7 @@ Slug: older-digital-work
 Authors: josh
 Description: Various older pieces.
 Summary:  Various older pieces.
-Thumbnail: images/older_digital_work/older_digital_work_thumb.png
+Thumbnail: images/older_digital_work/drawtober_carvings.png
 Featured: images/older_digital_work/kelsey_snow_photo.png
 
 Various older pieces, some studies, some originals.

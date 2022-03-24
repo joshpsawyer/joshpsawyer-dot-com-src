@@ -70,3 +70,4 @@ TAG_SAVE_AS = 'tags/{slug}.html'
 TAG_URL = 'tags/{slug}.html'
 
 IGNORE_FILES = ['*.unpublished']
+
