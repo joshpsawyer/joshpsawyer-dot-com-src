@@ -56,7 +56,14 @@ CURRENTYEAR = date.today().year
 
 GOOGLE_ANALYTICS = 'G-FQ55D84H20'
 
-STATIC_PATHS = ['images']
+STATIC_PATHS = [
+    'images',
+    'robots.txt'
+]
+
+# EXTRA_PATH_METADATA = {
+#     'robots.txt': {'path': 'robots.txt'},
+# }
 
 ARTICLE_SAVE_AS = '{date:%Y}/{date:%m}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{date:%m}/{slug}.html'
@@ -71,3 +78,12 @@ TAG_URL = 'tags/{slug}.html'
 
 IGNORE_FILES = ['*.unpublished']
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {'css_class': 'highlight'},
+        'markdown.extensions.extra': {},
+        'markdown.extensions.meta': {},
+        'mdx_include': {},
+    },
+    'output_format': 'html5',
+}
