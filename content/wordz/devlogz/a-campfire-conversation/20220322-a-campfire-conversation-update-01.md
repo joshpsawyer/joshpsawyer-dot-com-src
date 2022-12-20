@@ -7,11 +7,14 @@ Slug: a-campfire-conversation-update-01
 Authors: josh
 Summary: Making a game is hard!
 showkofi: true
-Featured: images/a-campfire-conversation/EenP73DVoAU9qws.png
 
-I erroneously called this `A Bonfire Conversation` but it's actually a `A Campfire Story`. Anyway - I thought I'd go down the
+I erroneously called this A Bonfire Conversation but it's actually a {! content/wordz/includes/a-campfire-conversation.md.unpublished !}. Anyway - I thought I'd go down the
 good development practice of figuring out what the hell I'm making, at least in part, before I pop open Unity. So what
-am I trying to achieve with this game?
+am I trying to achieve with this game? 
+
+
+
+![Chrono Trigger!]({static}/images/a-campfire-conversation/EenP73DVoAU9qws.png)
 
 ## The Premise
 
@@ -20,7 +23,7 @@ am I trying to achieve with this game?
 </aside>
 
 I really love the concept of [Home](https://bancyco.itch.io/home), a game whose ending changes based on the answers that
-you provide in game. In working on Project Sword, I ended up with an Ink powered dialogue system that can set in game variables
+you provide in game. In working on <span class="gametitle">Project Sword</span>, I ended up with an Ink powered dialogue system that can set in game variables
 through ScriptableObjects and then raise events to alert that the variable was changed. I started thinking about a scene
 in the woods that changed the environment to match. In my mind, there are two readily apparent exciting ideas:
 
