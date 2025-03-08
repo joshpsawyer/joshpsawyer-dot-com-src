@@ -26,7 +26,9 @@
   --color-one: #A6033F;
   --color-background: #F2D8DA;
   --color-three: #F266C1;
-  --color-font: #51608C;
+  --color-four: #D99C9C;
+  --color-five: #51608C;
+  --color-six: #00CBC9;
 }
 
 body {
@@ -37,7 +39,7 @@ body {
   overflow-x: auto;
   overflow-y: scroll;
   margin: 0 auto;
-  color: var(--color-font);
+  color: var(--color-five);
   cursor: url("/assets/images/cursor-pointer.png") 12 0, auto;
 }
 body .color-scheme-wrapper {
@@ -46,7 +48,7 @@ body .color-scheme-wrapper {
   grid-template-columns: 1fr;
   min-height: 100vh;
   background-color: var(--color-background);
-  color: var(--color-font);
+  color: var(--color-five);
 }
 
 #nav-wrapper #site-logo-text {
@@ -81,12 +83,13 @@ body .color-scheme-wrapper {
 
 #footer-wrapper {
   font-family: "fixedsys", "Courier Prime", "Courier New", sans-serif;
+  background: var(--color-five);
 }
 #footer-wrapper footer {
   margin: 0 auto;
   max-width: var(--site-width);
-  color: lightgray;
-  padding: 2rem 1rem;
+  color: var(--color-background);
+  padding: 1rem 1rem;
 }
 #footer-wrapper footer a {
   text-decoration: none;
@@ -180,4 +183,13 @@ article img {
 
 ol, ul {
   line-height: 1.5rem;
+}
+
+#header-nav-bar {
+  border-bottom: 6px solid var(--color-three);
+}
+
+.bottom-line {
+  border-top: 4px solid var(--color-six);
+  height: 4px;
 }
