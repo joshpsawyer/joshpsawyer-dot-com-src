@@ -114,8 +114,8 @@ body {
       grid-template-columns: 1fr;
       min-height:100vh;
 
-      background-color: var(--color-background);
-      color: var(--color-five);
+      background-color: var(--color-five);
+      color: var(--color-background);
     }
 }
 
@@ -224,7 +224,7 @@ p {
 a {
   outline: 0;
   cursor: url("/assets/images/cursor-hand.png") 12 0, auto;
-  color: var(--color-one);
+  color: var(--color-six);
 }
 
 a:hover {
@@ -307,11 +307,11 @@ ol, ul {
   line-height: 1.5rem;
 }
 
-#header-nav-bar {
-  border-bottom: 6px solid var(--color-three);
-}
+// #header-nav-bar {
+//   border-bottom: 6px solid var(--color-three);
+// }
 
 .bottom-line {
-  border-top: 4px solid var(--color-six);
+  border-top: 4px solid var(--color-three);
   height: 4px;
 }
