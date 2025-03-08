@@ -1,5 +1,5 @@
 ---
-title: Home
+title: the index page
 layout: base
 ---
 # Hi.
