@@ -304,8 +304,12 @@ code {
   @include fixedsys-stack();
 }
 
-ol, ul {
-  line-height: 2rem;
+// ol, ul {
+//   line-height: 2rem;
+// }
+
+li + li {
+  margin-top: 1rem;
 }
 
 // #header-nav-bar {
