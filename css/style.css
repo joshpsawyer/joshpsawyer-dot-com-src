@@ -181,8 +181,8 @@ article img {
   font-family: "fixedsys", "Courier Prime", "Courier New", sans-serif;
 }
 
-ol, ul {
-  line-height: 2rem;
+li + li {
+  margin-top: 1rem;
 }
 
 .bottom-line {
