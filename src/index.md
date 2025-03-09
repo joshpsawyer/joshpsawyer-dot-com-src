@@ -2,7 +2,7 @@
 title: the index page
 layout: base
 ---
-# Hi.
+Hi.
 
 You might be here because:
 
