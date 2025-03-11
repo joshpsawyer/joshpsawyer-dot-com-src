@@ -62,8 +62,14 @@
   --color-background: #F2D8DA; // edb525
   --color-three: #f266c1;
   --color-four: #D99C9C;
-  --color-five: #51608C;
+  --color-five: #1E2B40;
   --color-six: #00CBC9;
+  --color-seven: #FF9F00;
+  --color-eight: #51608C;
+  --color-nine: #F28705;
+  --color-ten: #F23005;
+  --color-eleven: #D9A404;
+  --color-twelve: #32838C;
 }
 
 // @media (prefers-color-scheme: dark) {
@@ -210,21 +216,35 @@ body {
 
 #footer-nav-wrapper {
   border-bottom: 4px solid var(--color-five);
-  background-color: var(--color-six);
+  // background-color: var(--color-six);
 
   #footer-nav {
     margin: 0 auto;
     max-width: var(--site-width);
     padding: 1rem 1rem;
 
-    a {
-      padding: 1rem 1rem;
-      color: var(--color-five);
-      text-decoration: none;
+    nav {
+      // display: grid;
+      // grid-template-columns: repeat(2,1fr);
+  
+      // grid-column-gap: 0.5rem;
+      // grid-row-gap: 0.5rem;
 
-      &:hover {
-        color: var(--color-background);
-        background-color: var(--color-three);
+      
+
+
+
+      a {
+        // padding: 1rem 1rem;
+        // color: var(--color-five);
+        text-decoration: none;
+
+        margin-right: 1rem;
+
+        &:hover {
+          // color: var(--color-background);
+          // background-color: var(--color-three);
+        }
       }
     }
   }
@@ -232,7 +252,7 @@ body {
 
 #footer-wrapper {
   @include fixedsys-stack();
-  background: var(--color-five);
+  // background: var(--color-five);
   // border-top: 6px solid var(--color-three);
 
   footer {
@@ -242,9 +262,11 @@ body {
     padding: 1rem 1rem;
     // text-align: center;
 
-    a {
-      text-decoration: none;
-    }
+      a {
+        text-decoration: none;
+      }
+
+
   }
 }
 
@@ -301,7 +323,7 @@ h1, h2, h3, h4, h5, h6 {
     text-decoration: none;
     background: var(--color-six);
     color: var(--color-five);
-    border: 4px solid var(--color-background);
+    // border: 4px solid var(--color-background);
 
 
 
@@ -310,7 +332,7 @@ h1, h2, h3, h4, h5, h6 {
     &:hover {
       background-color: var(--color-three);
       color: var(--color-background);
-      border: 4px solid var(--color-background);
+      // border: 4px solid var(--color-background);
     }
   }
 }
@@ -356,7 +378,7 @@ li + li {
 // }
 
 .bottom-line {
-  border-top: 4px solid var(--color-three);
+  border-top: 4px solid var(--color-seven);
   height: 4px;
 }
 
@@ -398,8 +420,28 @@ img.zoomx4 {
   transform: scale(4);
 }
 
+
+@media (min-width: 300px) {
+  #footer-nav-wrapper {
+    #footer-nav {
+      nav {
+        grid-template-columns: repeat(3,1fr);
+      }
+    }
+  }
+}
+
+
 @media (min-width: 480px) {
   #index-nav nav {
     grid-template-columns: repeat(2, 1fr);
+  }
+
+  #footer-nav-wrapper {
+    #footer-nav {
+      nav {
+        grid-template-columns: repeat(6,1fr);
+      }
+    }
   }
 }
