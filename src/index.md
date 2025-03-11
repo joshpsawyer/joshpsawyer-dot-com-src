@@ -1,16 +1,11 @@
 ---
 title: the index page
-layout: base
+layout: base_no_topnav
 ---
-Hi.
 
-You might be here because:
+<img class="homepage pixelart" src="/images/jps2022001_jdonaldson_landscape_week02_full.png" />
 
-- You want a Netsuite Consultant that can write SuiteScript
-- You're looking for a python dev that can set up Airflow
-- You want a stripped down, old-school static website, possibly generated with an SSG 
-- You're programming a game in Godot and found one of my opinionated articles
-- You want pixel art advice or to commission an artist for a game
-- You're interested in baking the best focaccia ever or a really fantastic vegan birthday cake
 
-Contact me at _josh \[at\] joshpsawyer \[dot\] com_ for any of the above or just to say hi.
+<div id="index-nav">
+    {% include "partials/navigation.njk" %}
+</div>
