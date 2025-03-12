@@ -17,11 +17,14 @@
 body {
   font-family: "Courier", "Courier Prime", "Courier New", sans-serif;
   font-weight: bold;
+  font-family: Segoe UI, Helvetica, Arial, sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol;
+  font-weight: normal;
   font-display: swap;
   height: 100vh;
   overflow-x: auto;
   overflow-y: scroll;
   margin: 0 auto;
+  min-width: 320px;
   color: var(--color-five);
   cursor: url("/assets/images/cursor-pointer.png") 12 0, auto;
 }
@@ -34,17 +37,20 @@ body .color-scheme-wrapper {
   color: var(--color-background);
 }
 
+#nav-wrapper {
+  padding: 1rem;
+}
 #nav-wrapper #site-logo-text {
   font-family: "Courier", "Courier Prime", "Courier New", sans-serif;
   font-weight: bold;
-  margin: 1rem auto;
+  margin: 0 auto 1rem auto;
   max-width: var(--site-width);
 }
 #nav-wrapper #site-logo-text a {
   text-decoration: none;
 }
 #nav-wrapper #header-nav-bar {
-  margin: 1rem auto;
+  margin: 0 auto;
 }
 #nav-wrapper #header-nav-bar nav {
   font-family: "Courier", "Courier Prime", "Courier New", sans-serif;
